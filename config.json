@@ -1,0 +1,15 @@
+{
+    "title": "Test Custom 6",
+    "baseURL": "https:\/\/custom.test.wdgt",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test.wdgt"
+    }
+}
